@@ -1,0 +1,41 @@
+# Kaggle credentials
+.kaggle/
+kaggle.json
+
+# Data (too large for git)
+data/
+
+# Models (too large for git)
+models/
+*.pth
+*.pt
+*.h5
+
+# Outputs
+outputs/
+
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+*.egg-info/
+
+# Jupyter
+.ipynb_checkpoints
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
