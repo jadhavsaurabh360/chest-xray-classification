@@ -50,7 +50,7 @@ achieving the highest AUC (0.7173) and lowest Hamming Loss (0.2639) among all in
 > ensemble leads on macro F1 (0.3445) & Hamming Loss by combining signals from all three models but at a much lower prediction threshold
 
 **EfficientNet-B7 standout recalls at threshold 0.30:**
-- Infiltration: 93.8% | Effusion: 97.1% | Atelectasis: 82.2%
+- Infiltration: 89.5% | Effusion: 85.2% | Atelectasis: 77.9%
 
 ---
 
@@ -89,3 +89,4 @@ achieving the highest AUC (0.7173) and lowest Hamming Loss (0.2639) among all in
 ## Dataset
 
 See `README_Dataset.md` for dataset details, source, and label structure.
+
